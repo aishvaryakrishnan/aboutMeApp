@@ -54,7 +54,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       url: '/aboutApp',
       views: {
         'tab-account': {
-          templateUrl: 'wwww/templates/tab-account.html',
+          templateUrl: 'www/templates/tab-account.html',
           controller: 'AccountCtrl'
         }
       }
